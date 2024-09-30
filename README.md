@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js, MongoDB, Node.js**
 
-- 👨‍💻 Personal Portfolio: [https://knowboutme.netlify.app/](https://knowboutme.netlify.app/)
+- 👨‍💻 Personal Portfolio: 
 
 - 💬 Ask me about **React, MongoDB, Node.js**
 
