@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **arjunarora3682@gmail.com**
 
-- 📊 Profile Views: [![Profile views](https://komarev.com/ghpvc/?username=Arjun9234&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/arjunarora)
+- 📊 Profile Views: [![Profile views](https://komarev.com/ghpvc/?username=Arjun9234&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Arjun9234)
 
 
 <h3 align="left">Connect with me:</h3>
